@@ -39,11 +39,11 @@ I’ve built projects in **AI integration**, **ML fairness analysis**, and **clo
 
 ### 📫 Connect With Me
 
-- 🔗 **LinkedIn:** [challa-sumanth-587628294](https://www.linkedin.com/in/challa-sumanth-587628294/)  
-- 🌐 **Portfolio:** [sumanths-stellar-site.vercel.app](https://sumanths-stellar-site.vercel.app/)  
-- 🧠 **LeetCode:** [SumanthChalla](https://leetcode.com/u/SumanthChalla/)  
-- 📄 **Naukri Code360 Profile:** [Code360](https://www.naukri.com/code360/profile/ae9763d0-1026-4796-8501-e4d1c96d4f3d)  
-- 💼 **GitHub:** [@challasumanth64](https://github.com/challasumanth64)
+<p align="left">
+  <a href="https://www.linkedin.com/in/challa-sumanth-587628294/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://sumanths-stellar-site.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://leetcode.com/u/SumanthChalla/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+</p>
 
 ---
 
@@ -55,15 +55,5 @@ I’ve built projects in **AI integration**, **ML fairness analysis**, and **clo
 - 🧪 Interned in AWS Cloud and built infrastructure using EC2, Lambda, S3
 - 🎯 Passionate about building tech that impacts lives
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=challasumanth64&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=challasumanth64&layout=compact&theme=radical" height="170px"/>
-</p>
-
----
 
 **“Code with curiosity, build with purpose.”**
