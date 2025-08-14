@@ -24,18 +24,6 @@ I’ve worked on diverse projects involving AI integration, ML fairness analysis
 
 ---
 
-### 💼 Projects I'm Proud Of
-
-| Project | Description | Tech Stack | Repo | Demo |
-|--------|-------------|------------|------|------|
-| **AI App Center** | Gemini AI-powered web tools like Chatbot, Travel Planner, Resume Analyzer, and more | React.js, Node.js, MongoDB, Tailwind CSS | [GitHub](https://github.com/challasumanth64/ai-app-center) | N/A |
-| **FitPeo Healthcare Dashboard** | Interactive dashboard with visual analytics | React.js, Chart.js, Tailwind CSS | [GitHub](https://github.com/challasumanth64/Fitpeo-Healthcare-Dashboard) | [Live](https://fitpeo-healthcare-dashboard-sigma.vercel.app/) |
-| **Product Catalog** | Responsive product listing site using Fake Store API | React.js, CSS | [GitHub](https://github.com/challasumanth64/React-Product-Catalog) | [Live](https://react-product-catalog-five.vercel.app/) |
-| **House Price Prediction - Hyderabad** | Flask web app that predicts house prices using ML | Python, Flask, HTML, CSS | [GitHub](https://github.com/challasumanth64/House-Price-Prediction-Hyderabad) | N/A |
-| **Fairness in ML** | Studied and improved bias in ML models using Fairlearn | Python, Scikit-learn, Matplotlib | [GitHub](https://github.com/challasumanth64/THE-IMPACT-OF-FEATURE-ENGINEERING-ON-FAIRNESS-METRICS-IN-MACHINE-LEARNING-ALGORITHMS) | N/A |
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
