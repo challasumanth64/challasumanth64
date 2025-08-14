@@ -7,10 +7,9 @@
 ---
 
 ### 🚀 About Me
+I’m a passionate and versatile Software Engineer with expertise across MERN Stack, Java Full Stack, and Python-based development, along with strong skills in AI and Machine Learning engineering. I have hands-on experience in designing and deploying scalable, real-world applications using React.js, Node.js, Express.js, MongoDB, Java, Spring Boot, Python, Flask, and REST APIs.
 
-I'm a passionate and detail-oriented **Full Stack Developer** with hands-on experience in building real-world applications using **React.js**, **Node.js**, **MongoDB**, and **REST APIs**. Currently in my final year at **Geethanjali College of Engineering and Technology (Class of 2025)**, I love turning ideas into interactive, useful, and scalable software.
-
-I’ve built projects in **AI integration**, **ML fairness analysis**, and **cloud deployments**. Always eager to learn, collaborate, and work on technologies that make a real impact.
+I’ve worked on diverse projects involving AI integration, ML fairness analysis, cloud deployments, and data-driven applications. I enjoy solving complex problems, collaborating in agile teams, and leveraging technology to build impactful, user-centric solutions.
 
 ---
 
