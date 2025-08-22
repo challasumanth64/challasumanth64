@@ -17,7 +17,7 @@ I’ve worked on diverse projects involving AI integration, ML fairness analysis
 
 - **Languages:** JavaScript, Python, Java, SQL, C
 - **Frontend:** HTML5, CSS3, Bootstrap, Tailwind CSS, React.js
-- **Backend:** Node.js, Express.js, Flask, SpringBoot
+- **Backend:** Node.js, Express.js, Flask, Django, SpringBoot
 - **Database:** MongoDB, MySQL
 - **Cloud & Tools:** AWS, Git, GitHub, Postman, Vercel, VS Code
 - **Others:** REST APIs, JWT Auth, Firebase, Agile, DSA, OOPs
