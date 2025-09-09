@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sumanth Challa</h1>
 
 <p align="center">
-  👨‍💻 Full Stack Developer | 🎓 B.Tech CSE | 🌐 Open Source Enthusiast | 🇮🇳 Based in Hyderabad
+  👨‍💻 Full Stack Developer | 🎓 B.Tech CSE | 🇮🇳 Based in Hyderabad
 </p>
 
 ---
