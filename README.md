@@ -34,8 +34,8 @@ My passion lies in **data analysis**, **feature engineering**, **fairness in ML*
 | **Fairness in ML** | Studied and improved bias in ML models using Fairlearn to analyze feature engineering impact on fairness metrics | Python, Scikit-learn, Fairlearn, Matplotlib, Pandas | [GitHub](https://github.com/challasumanth64/THE-IMPACT-OF-FEATURE-ENGINEERING-ON-FAIRNESS-METRICS-IN-MACHINE-LEARNING-ALGORITHMS) |
 | **House Price Prediction - Hyderabad** | ML regression model predicting house prices with feature engineering and model evaluation | Python, Flask, Scikit-learn, Pandas | [GitHub](https://github.com/challasumanth64/House-Price-Prediction-Hyderabad) |
 | **AI App Center** | Gemini AI-powered web application with Chatbot, Travel Planner, Resume Analyzer, Code Generator | React.js, Node.js, MongoDB, Gemini API, Tailwind CSS | [GitHub](https://github.com/challasumanth64/ai-app-center) |
-| **FitPeo Healthcare Dashboard** | Interactive analytics dashboard with real-time data visualization and insights | React.js, Chart.js, Tailwind CSS, Node.js Backend | [GitHub](https://github.com/challasumanth64/Fitpeo-Healthcare-Dashboard) |
-| **Product Catalog** | Full stack e-commerce product listing application with dynamic filtering | React.js, REST APIs, CSS, Node.js | [GitHub](https://github.com/challasumanth64/React-Product-Catalog) |
+| **AI Resume Screener & Job Matcher** | AI-powered application that analyzes resumes, extracts skills, matches candidates with job descriptions, and performs skill-gap analysis using NLP techniques | Python, NLP, Streamlit, Sentence-Transformers, Scikit-learn | [GitHub](https://github.com/challasumanth64) |
+| **Heart Disease Prediction System** | Machine learning application that predicts heart disease risk using patient health data with data preprocessing, feature engineering, and model evaluation | Python, Machine Learning, Scikit-learn, Pandas, NumPy, Django, React.js | [GitHub](https://github.com/challasumanth64) |
 
 ---
 
