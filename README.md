@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sumanth Challa</h1>
 
 <p align="center">
-  🤖 AI/ML Engineer | 📊 Data Science Enthusiast | 💻 Full Stack Developer | 🎓 B.Tech CSE | 🇮🇳 Based in Hyderabad
+  🤖 AI/ML Engineer | 📊 Data Science Enthusiast |  🤖 Gen AI Enthusiast | 💻 Full Stack Developer | 🎓 B.Tech CSE | 🇮🇳 Based in Hyderabad
 </p>
 
 ---
