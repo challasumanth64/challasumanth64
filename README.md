@@ -31,13 +31,12 @@ My passion lies in **data analysis**, **feature engineering**, **fairness in ML*
 
 | Project | Description | Tech Stack | Repo |
 |--------|-------------|------------|------|
-| **Fairness in ML** | Studied and improved bias in ML models using Fairlearn to analyze feature engineering impact on fairness metrics | Python, Scikit-learn, Fairlearn, Matplotlib, Pandas | [GitHub](https://github.com/challasumanth64/THE-IMPACT-OF-FEATURE-ENGINEERING-ON-FAIRNESS-METRICS-IN-MACHINE-LEARNING-ALGORITHMS) |
-| **House Price Prediction - Hyderabad** | ML regression model predicting house prices with feature engineering and model evaluation | Python, Flask, Scikit-learn, Pandas | [GitHub](https://github.com/challasumanth64/House-Price-Prediction-Hyderabad) |
-| **AI App Center** | Gemini AI-powered web application with Chatbot, Travel Planner, Resume Analyzer, Code Generator | React.js, Node.js, MongoDB, Gemini API, Tailwind CSS | [GitHub](https://github.com/challasumanth64/ai-app-center) |
-| **AI Resume Screener & Job Matcher** | AI-powered application that analyzes resumes, extracts skills, matches candidates with job descriptions, and performs skill-gap analysis using NLP techniques | Python, NLP, Streamlit, Sentence-Transformers, Scikit-learn | [GitHub](https://github.com/challasumanth64) |
-| **Heart Disease Prediction System** | Machine learning application that predicts heart disease risk using patient health data with data preprocessing, feature engineering, and model evaluation | Python, Machine Learning, Scikit-learn, Pandas, NumPy, Django, React.js | [GitHub](https://github.com/challasumanth64) |
-
----
+| **ClassMate AI – Intelligent Learning Assistant** | AI-powered learning assistant that enables users to upload PDFs, notes, and research papers, perform semantic search, generate summaries, explain concepts, and answer questions using a Retrieval-Augmented Generation (RAG) pipeline with LLMs. | Python, LangChain, LangGraph, Gemini API, Streamlit, FAISS, Hugging Face Embeddings, NLP | [GitHub](https://github.com/challasumanth64) |
+| **Multi-Agent AI Research Assistant** | Multi-agent AI system featuring Planner, Researcher, Writer, and Reviewer agents that collaborate to research, generate, review, and deliver high-quality responses using autonomous AI workflows. | Python, LangGraph, LangChain, Mistral LLM, Tavily Search API, Streamlit | [GitHub](https://github.com/challasumanth64) |
+| **AI App Center** | AI-powered web platform integrating multiple intelligent applications including AI Chatbot, Resume Analyzer, Travel Planner, Code Generator, and Content Generator with a modern responsive interface. | React.js, Node.js, MongoDB, Gemini API, JavaScript, Tailwind CSS | [GitHub](https://github.com/challasumanth64/ai-app-center) |
+| **AI Resume Screener & Job Matcher** | AI recruitment platform that extracts candidate skills, generates semantic embeddings, matches resumes with job descriptions, performs skill-gap analysis, and ranks candidates using NLP techniques. | Python, NLP, Streamlit, Sentence Transformers, Scikit-learn, Pandas | [GitHub](https://github.com/challasumanth64) |
+| **Heart Disease Prediction System** | Machine learning application that predicts heart disease risk using healthcare datasets through data preprocessing, feature engineering, model training, evaluation, and an interactive prediction interface. | Python, Scikit-learn, Pandas, NumPy, Django, React.js | [GitHub](https://github.com/challasumanth64) |
+| **Fairness in Machine Learning** | Research project analyzing and reducing bias in machine learning models by evaluating the impact of feature engineering on fairness metrics such as Demographic Parity and Equalized Odds using Fairlearn. | Python, Fairlearn, Scikit-learn, Pandas, Matplotlib | [GitHub](https://github.com/challasumanth64/THE-IMPACT-OF-FEATURE-ENGINEERING-ON-FAIRNESS-METRICS-IN-MACHINE-LEARNING-ALGORITHMS) |
 
 ### 📊 What I Do
 
